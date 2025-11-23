@@ -1,4 +1,5 @@
-
+다운로드 링크:
+https://drive.google.com/file/d/1wdRmmW9Sp5JzLw19ca7dg-o8Qfz0fA09/view?usp=sharing
 
 CardGameHelper.exe 를 실행
 
